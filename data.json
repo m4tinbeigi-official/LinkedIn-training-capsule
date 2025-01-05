@@ -1,0 +1,96 @@
+{
+    "course": {
+        "title": "کپسول آموزشی لینکدین",
+        "description": "این دوره به شما کمک می‌کند تا پروفایل لینکدین خود را بهینه کرده و از آن برای شبکه‌سازی و کسب درآمد استفاده کنید.",
+        "goals": [
+            "آموزش ساخت پروفایل حرفه‌ای و متمایز در لینکدین.",
+            "شبکه‌سازی هدفمند با افراد و شرکت‌ها برای فرصت‌های شغلی و حرفه‌ای.",
+            "تولید محتوای تاثیرگذار و کاربرپسند برای جذب توجه."
+        ],
+        "video": "https://www.youtube.com/embed/VIDEO_ID"
+    },
+    "faq": [
+        {
+            "question": "دوره به چه صورت برگزار می‌شود؟",
+            "answer": "دوره به صورت آنلاین و از طریق پلتفرم‌هایی مانند Jitsi برگزار می‌شود."
+        },
+        {
+            "question": "آیا دوره گواهی‌نامه دارد؟",
+            "answer": "بله، در پایان دوره به شرکت‌کنندگان گواهی‌نامه رسمی اعطا می‌شود."
+        }
+    ],
+    "files": [
+        {
+            "name": "دانلود فایل PDF",
+            "path": "files/sample.pdf"
+        }
+    ],
+    "socialLinks": [
+        {
+            "name": "توییتر",
+            "url": "https://twitter.com/share?url=URL&text=کپسول آموزشی لینکدین",
+            "icon": "fab fa-twitter"
+        },
+        {
+            "name": "لینکدین",
+            "url": "https://www.linkedin.com/shareArticle?url=URL&title=کپسول آموزشی لینکدین",
+            "icon": "fab fa-linkedin"
+        }
+    ],
+    "personalLinks": [
+        {
+            "name": "لینکدین",
+            "url": "https://www.linkedin.com/in/Matinbeigi",
+            "icon": "fab fa-linkedin"
+        },
+        {
+            "name": "تلگرام",
+            "url": "https://t.me/M4tinbeigipv",
+            "icon": "fab fa-telegram"
+        },
+        {
+            "name": "توییتر",
+            "url": "https://twitter.com/M4tinbeigi",
+            "icon": "fab fa-twitter"
+        },
+        {
+            "name": "اینستاگرام",
+            "url": "https://instagram.com/M4tinbeigi",
+            "icon": "fab fa-instagram"
+        }
+    ],
+    "sponsor": {
+        "title": "جذب اسپانسر",
+        "description": "با حمایت مالی از این دوره، می‌توانید برند خود را به جامعه حرفه‌ای معرفی کنید و از مزایای زیر بهره‌مند شوید.",
+        "benefits": [
+            "دیده شدن در جامعه حرفه‌ای: مخاطبان دوره شامل افراد حرفه‌ای و متخصصانی هستند که مشتریان بالقوه شما محسوب می‌شوند.",
+            "ارتباط مستقیم با مخاطبان هدف: معرفی محصولات یا خدمات شما به شرکت‌کنندگان دوره.",
+            "ارتقای برندینگ: حمایت از دوره‌ای که بر رشد حرفه‌ای تمرکز دارد، اعتبار برند شما را افزایش می‌دهد."
+        ],
+        "offers": [
+            "نمایش لوگوی اسپانسر در تمامی تبلیغات و بنرهای دوره.",
+            "معرفی اسپانسر در ابتدای هر جلسه.",
+            "امکان ارائه پیشنهادات یا تخفیف ویژه برای شرکت‌کنندگان دوره."
+        ],
+        "contact": {
+            "description": "برای کسب اطلاعات بیشتر درباره فرصت‌های اسپانسری، لطفاً با تیم ما در ارتباط باشید:",
+            "links": [
+                {
+                    "name": "ایمیل",
+                    "url": "mailto:m4tinbeigi@gmail.com",
+                    "icon": "fas fa-envelope"
+                },
+                {
+                    "name": "تلگرام",
+                    "url": "https://t.me/M4tinbeigipv",
+                    "icon": "fab fa-telegram"
+                },
+                {
+                    "name": "لینکدین",
+                    "url": "https://www.linkedin.com/in/Matinbeigi",
+                    "icon": "fab fa-linkedin"
+                }
+            ]
+        }
+    }
+}
