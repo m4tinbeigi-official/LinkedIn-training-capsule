@@ -246,3 +246,32 @@ body {
 .poll .btn {
     margin: 5px;
 }
+
+/* مدیا کوئری‌ها برای واکنشگرایی */
+@media (max-width: 768px) {
+    .navbar-brand {
+        font-size: 1.2rem;
+    }
+
+    .chatbot {
+        width: 250px;
+    }
+
+    .gallery-item {
+        flex: 1 1 calc(50% - 10px);
+    }
+}
+
+@media (max-width: 576px) {
+    .navbar-brand {
+        font-size: 1rem;
+    }
+
+    .chatbot {
+        width: 200px;
+    }
+
+    .gallery-item {
+        flex: 1 1 100%;
+    }
+}
